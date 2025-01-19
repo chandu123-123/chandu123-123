@@ -22,29 +22,37 @@ Hello! I'm Chandan Kumar Cheripally, a passionate developer interested in AI age
 
 ## Projects
 
-### [indiecaptions.com](https://indiecaptions.com)
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
-A platform for generating creative captions for social media and content creators.
+<div style="flex: 1; min-width: 300px; border: 1px solid #ddd; border-radius: 8px; padding: 16px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <h3 style="margin-top: 0;">[indiecaptions.com](https://indiecaptions.com)</h3>
+  <p>A platform for generating creative captions for social media and content creators.</p>
+  <ul>
+    <li>**Tech Stack**: MERN (MongoDB, Express, React, Node.js)</li>
+    <li>**Features**: AI-powered caption generation, user-friendly interface</li>
+    <li>**Demo**: [Link to Demo]</li>
+  </ul>
+</div>
 
-- **Tech Stack**: MERN (MongoDB, Express, React, Node.js)
-- **Features**: AI-powered caption generation, user-friendly interface
-- **Demo**: [Link to Demo]
+<div style="flex: 1; min-width: 300px; border: 1px solid #ddd; border-radius: 8px; padding: 16px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <h3 style="margin-top: 0;">[fresheresume.com](https://fresheresume.com)</h3>
+  <p>A tool for creating professional resumes with ease.</p>
+  <ul>
+    <li>**Tech Stack**: MERN (MongoDB, Express, React, Node.js)</li>
+    <li>**Features**: Customizable templates, easy-to-use editor</li>
+    <li>**Demo**: [Link to Demo]</li>
+  </ul>
+</div>
 
-### [fresheresume.com](https://fresheresume.com)
-
-A tool for creating professional resumes with ease.
-
-- **Tech Stack**: MERN (MongoDB, Express, React, Node.js)
-- **Features**: Customizable templates, easy-to-use editor
-- **Demo**: [Link to Demo]
+</div>
 
 ## Get in Touch
 
-Feel free to reach out to me via [Your Preferred Contact Method]. I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
+Feel free to reach out to me via the following platforms:
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourprofile)
-- [Email](mailto:youremail@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandan-kumar-cheripally-78738a253/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/chandan_cheripally_/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@chandankumarnetha)
 
 ## Support
 
